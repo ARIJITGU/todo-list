@@ -16,7 +16,7 @@ public class SpringDemo {
         // st.setAddress("haludbani");
         st.setRoll(1);
         int r = d.delete(st);
-        System.out.println("data changed" + r);
+        System.out.println("data changed\t" + r);
     }
     
 }
